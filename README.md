@@ -2,7 +2,7 @@
 ### Yesssung 의 Github
 
 <a href="https://velog.io/@cjsrnr0504/posts">
-  <img src="https://img.shields.io/badge/Velog-00A97F?style=flat-square&logo=Velog&logoColor=white" alt="Velog Badge" width="160" height="40">
+  <img src="https://img.shields.io/badge/Velog-00A97F?style=flat-square&logo=Velog&logoColor=white" alt="Velog Badge" width="100" height="30">
 </a>
 
 
