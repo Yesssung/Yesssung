@@ -1,4 +1,7 @@
 ## Hi there 👋
+### Yesssung 의 Github
+
+[![Velog Badge](https://img.shields.io/badge/Velog-00A97F?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@cjsrnr0504/posts)
 
 <!--
 [Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi;This is Yesssung's Github)](https://git.io/typing-svg)
