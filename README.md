@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi;This is Yesssung's Github)](https://git.io/typing-svg)
+[Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi;This is Yesssung's Github)](https://git.io/typing-svg)
 **Yesssung/Yesssung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
