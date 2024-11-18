@@ -21,10 +21,8 @@ This is Yesssung's GitHub!
           </div>
 
 ## ✨ Most Used Language
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yesssung&layout=compact&bg_color=%234169e1&title_color=ffffff&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yesssung&layout=compact&bg_color=4169e1&title_color=ffffff&text_color=000000" />
 
-</div>
 
 ## 🧑‍💻 Contact me!
 <div style="text-align: left;"> <a href=https://velog.io/@cjsrnr0504> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@cjsrnr0504"> </a>
