@@ -21,7 +21,7 @@ This is Yesssung's GitHub!
           </div>
 
 ## ✨ Most Used Language
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yesssung&layout=compact&bg_color=fffafa&title_color=ffffff&text_color=000000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yesssung&layout=compact&bg_color=fffafa&title_color=ff69b4&text_color=ff69b4" />
 
 
 ## 🧑‍💻 Contact me!
