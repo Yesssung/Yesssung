@@ -18,9 +18,7 @@ This is Yesssung's GitHub!!
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-     ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF4C4C?style=for-the-badge&logo=stable-diffusion&logoColor=white)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-1E1E1E?style=for-the-badge&logo=flow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 
           </div>
 
