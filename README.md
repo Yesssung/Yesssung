@@ -27,6 +27,10 @@ This is Yesssung's GitHub!!
 
 
 ## 🧑‍💻 Contact me!
-<div style="text-align: left;"> <a href=https://velog.io/@cjsrnr0504> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@cjsrnr0504"> </a>
+<div style="text-align: left;"> <a href=https://velog.io/@cjsrnr0504> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@cjsrnr0504">   </a>
+<a href="https://www.linkedin.com/in/your-id/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
 
